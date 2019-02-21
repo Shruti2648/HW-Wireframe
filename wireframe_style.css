@@ -32,7 +32,7 @@ nav {
 
 section {
     margin: 5px 10px 10px 150px;  
-    height: 400px;
+    height: 390px;
     width: 495px;
     padding: 5px 30px;
     background: #ebebeb;
@@ -83,8 +83,8 @@ article {
 }
 
 aside {
-    margin: 10px 150px 10px 720px;
-    height: 390px;
+    margin: 1px 150px 5px 720px;
+    height: 385px;
     width: 380px;
     padding: 10px 100px;
     background: #ebebeb;
